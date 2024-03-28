@@ -1,0 +1,44 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 75vh;
+    width: 70rem;
+}
+h1{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.content{
+    padding-left: 5rem;
+   /* position: absolute; */
+}
+.text{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 2rem;
+}
+p{
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.text img{
+    height: 25rem;
+    width: 40rem;
+}
+.text{
+    position: relative;
+}
+.text h3{
+    color: black;
+}
+.item{
+    position: absolute;
+    top: 21rem;
+    bottom: 2rem;
+    left: 2rem;
+    color: white;
+}
